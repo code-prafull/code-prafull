@@ -30,11 +30,9 @@
 
 ### 🔭 Featured Projects
 
-**[StoreItNow Cloud](https://github.com/code-prafull)** — Full-stack cloud storage platform (MERN) with JWT auth, Email OTP, RBAC, and Razorpay subscription billing. Used by 200+ users.
+**[StoreItNow Cloud](https://github.com/code-prafull/storeItNow.cloud)** — Full-stack cloud storage platform (MERN) with JWT auth, Email OTP, RBAC, and Razorpay subscription billing. Used by 200+ users.
 
-**[AI Emotion Song Recommender](https://github.com/code-prafull)** — AI-based emotion detection app recommending personalized songs in real-time. Used by 100+ users.
-
-> Replace the links above with the actual repo URLs.
+**[AI Emotion Song Recommender](https://github.com/code-prafull/AI-Emotion-Song-Recommender)** — AI-based emotion detection app recommending personalized songs in real-time. Used by 100+ users.
 
 ---
 
@@ -74,8 +72,6 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/code-prafull?theme=dark&font=Karla&ext=heatmap" alt="LeetCode Stats" />
 </p>
-
-> ⚠️ Replace `code-prafull` in the LeetCode card URL with your actual **LeetCode username** (it may be different from your GitHub username).
 
 ---
 
