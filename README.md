@@ -36,8 +36,6 @@ I'm a Computer Science and Engineering undergraduate and Full Stack Developer wi
 
 My focus is on writing maintainable code, designing reliable backend systems, building responsive interfaces, and solving problems with efficient algorithms.
 
-- **Current Role:** Full Stack Developer Intern at ADRS Techno Private Limited
-- **Previous Experience:** Software Developer Intern at StructAI
 - **Specialization:** MongoDB, Express.js, React.js, Node.js
 - **AI/ML:** TensorFlow.js, face-api.js, COCO-SSD
 - **Cloud:** AWS Academy Graduate – Cloud Foundations
@@ -52,7 +50,7 @@ My focus is on writing maintainable code, designing reliable backend systems, bu
 ## Professional Experience
 
 ### Full Stack Developer Intern
-**ADRS Techno Private Limited** | `Sep 2026 – Present`
+**ADRS Techno Private Limited** | `Sep 2026 – Oct 2026`
 
 - Building and maintaining full-stack application features using the MERN stack.
 - Developing RESTful APIs and integrating backend services with React.js interfaces.
